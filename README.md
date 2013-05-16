@@ -108,6 +108,7 @@ npm test
 Adding support for call remote async methods (methods that accept a
 callback function as end argument).
 Updated README.md
+- 0.0.4: Checked for socket end/close events before performing write
 
 ## Used by
 
